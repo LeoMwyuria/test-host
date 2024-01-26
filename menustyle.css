@@ -1,0 +1,76 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 390px ;
+    grid-template-rows: 80px 80px 80px 80px 80px ;
+    
+    width: 375px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.mobile{
+    background: #1A2730;
+    width: 428px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+}
+.grid-item1 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: 0.44px;
+position: relative;
+bottom: 5px;
+left: 10px;
+}
+.grid-item2 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: 0.44px;
+position: relative;
+bottom: 5px;
+left: 10px;
+}
+.grid-item3 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: 0.44px;
+position: relative;
+bottom: 5px;
+left: 10px;
+}
+.grid-item4 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: 0.44px;
+position: relative;
+bottom: 5px;
+left: 10px;
+}
+.grid-item5 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: 0.44px;
+position: relative;
+bottom: 5px;
+left: 10px;
+}
